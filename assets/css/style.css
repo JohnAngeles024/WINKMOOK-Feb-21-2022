@@ -239,7 +239,7 @@
     letter-spacing: 7.5px;
   }
   .main .shop .shop-details__heading--2::before {
-    background-image: url("/assets/img/vector.jpg");
+    background-image: url("../img/vector.jpg");
     background-size: contain;
     width: 28px;
     height: 82px;
@@ -257,7 +257,7 @@
     letter-spacing: 1.5px;
   }
   .main .shop .shop-details__heading::before {
-    background-image: url("/assets/img/vector.jpg");
+    background-image: url("../img/vector.jpg");
     background-size: contain;
     width: 28px;
     height: 82px;
@@ -307,7 +307,7 @@
     padding-left: 14px;
   }
   .main .shop .shop-details__item:nth-child(2)::before {
-    background-image: url("/assets/img/icon1.jpg");
+    background-image: url("../img/icon1.jpg");
     margin-left: -16px;
     margin-right: 4px;
   }
@@ -318,7 +318,7 @@
     padding-left: 14px;
   }
   .main .shop .shop-details__item:nth-child(3)::before {
-    background-image: url("/assets/img/icon2.jpg");
+    background-image: url("../img/icon2.jpg");
     margin-left: -16px;
     margin-right: 4px;
   }
@@ -326,7 +326,7 @@
     padding-left: 14px;
   }
   .main .shop .shop-details__item:nth-child(4)::before {
-    background-image: url("/assets/img/icon3.jpg");
+    background-image: url("../img/icon3.jpg");
     margin-left: -16px;
     margin-right: 4px;
   }
@@ -334,7 +334,7 @@
     padding-left: 14px;
   }
   .main .shop .shop-details__item:nth-child(5)::before {
-    background-image: url("/assets/img/icon4.jpg");
+    background-image: url("../img/icon4.jpg");
     margin-left: -16px;
     margin-right: 4px;
   }
@@ -625,7 +625,7 @@
     letter-spacing: 0.977vw;
   }
   .main .shop .shop-details__heading--2::before {
-    background-image: url("/assets/img/vector.jpg");
+    background-image: url("../img/vector.jpg");
     background-size: contain;
     width: 3.646vw;
     height: 10.677vw;
@@ -643,7 +643,7 @@
     letter-spacing: 0.195vw;
   }
   .main .shop .shop-details__heading::before {
-    background-image: url("/assets/img/vector.jpg");
+    background-image: url("../img/vector.jpg");
     background-size: contain;
     width: 3.646vw;
     height: 10.677vw;
@@ -704,7 +704,7 @@
     padding-left: 1.823vw;
   }
   .main .shop .shop-details__item:nth-child(3)::before {
-    background-image: url("/assets/img/icon2.jpg");
+    background-image: url("../img/icon2.jpg");
     margin-left: -2.083vw;
     margin-right: 0.521vw;
   }
@@ -712,7 +712,7 @@
     padding-left: 1.823vw;
   }
   .main .shop .shop-details__item:nth-child(4)::before {
-    background-image: url("/assets/img/icon3.jpg");
+    background-image: url("../img/icon3.jpg");
     margin-left: -2.083vw;
     margin-right: 0.521vw;
   }
@@ -720,7 +720,7 @@
     padding-left: 1.823vw;
   }
   .main .shop .shop-details__item:nth-child(5)::before {
-    background-image: url("/assets/img/icon4.jpg");
+    background-image: url("../img/icon4.jpg");
     margin-left: -2.083vw;
     margin-right: 0.521vw;
   }
