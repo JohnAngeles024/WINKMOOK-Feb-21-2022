@@ -693,7 +693,7 @@
     padding-left: 1.823vw;
   }
   .main .shop .shop-details__item:nth-child(2)::before {
-    background-image: url("/assets/img/icon1.jpg");
+    background-image: url("../img/icon1.jpg");
     margin-left: -2.083vw;
     margin-right: 0.521vw;
   }
