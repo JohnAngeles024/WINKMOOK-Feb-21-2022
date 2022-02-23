@@ -281,6 +281,12 @@
     font-style: normal;
     font-weight: 400;
   }
+  .main .shop .shop-details__list--2 li:nth-child(4)::before {
+    margin-top: 0;
+  }
+  .main .shop .shop-details__list--2 li:nth-child(3)::before {
+    margin-top: 5px;
+  }
   .main .shop .shop-details__item {
     padding-bottom: 10px;
     display: -webkit-box;
@@ -322,7 +328,6 @@
     background-image: url("../img/icon2.jpg");
     margin-left: -16px;
     margin-right: 4px;
-    margin-top: 5px;
   }
   .main .shop .shop-details__item:nth-child(4) {
     padding-left: 14px;
@@ -355,9 +360,11 @@
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .main .shop .shop-details__link-list--2 li:nth-child(1) {
+    margin-right: 26px;
+  }
   .main .shop .shop-details__link-item {
     font-size: 30px;
-    margin-right: 26px;
   }
   .main .shop .shop-details__btn {
     width: 235px;
@@ -672,6 +679,12 @@
     font-style: normal;
     font-weight: 400;
   }
+  .main .shop .shop-details__list--2 li:nth-child(4)::before {
+    margin-top: 0;
+  }
+  .main .shop .shop-details__list--2 li:nth-child(3)::before {
+    margin-top: 0.651vw;
+  }
   .main .shop .shop-details__item {
     padding-bottom: 1.302vw;
     display: -webkit-box;
@@ -740,10 +753,15 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .main .shop .shop-details__link-list--2 li:nth-child(1) {
+    margin-right: 3.385vw;
   }
   .main .shop .shop-details__link-item {
     font-size: 3.906vw;
-    margin-right: 3.385vw;
   }
   .main .shop .shop-details__btn {
     width: 30.599vw;
